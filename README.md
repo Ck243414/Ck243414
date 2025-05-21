@@ -11,7 +11,6 @@ I believe in lifelong learning, collaboration, and sharing knowledge to grow as 
 
 💬 Let's connect and create something amazing together!  
 📧 *Reach me at:* chaitanya.kannan@gmail.com 
-🌐 *Portfolio:* [your-portfolio.com]  
 🔗 *LinkedIn:* www.linkedin.com/in/chaitanya-kannan-06a3a6248
 
 ---
