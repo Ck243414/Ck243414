@@ -2,7 +2,6 @@
 
 🎓 I'm a final year B.Tech Computer and Communication student at *Manipal Institute of Technology*.  
 🤖 I’m deeply passionate about *Artificial Intelligence* and *Machine Learning*, and I love exploring the latest in AI research, building ML models, and solving real-world problems using data.  
-🌙 A night owl coder who enjoys building things that matter.
 
 ---
 
