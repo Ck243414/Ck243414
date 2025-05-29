@@ -81,8 +81,8 @@ I believe in lifelong learning, collaboration, and sharing knowledge to grow as 
 
 ## 📊 My GitHub Stats
 
-![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ck243414&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ck243414&layout=compact&theme=tokyonight)
+![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ck243414&show_icons=true&theme=tokyonight&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ck243414&layout=compact&theme=tokyonight&cache_seconds=0)
 
 
 ⭐ Profile views  
