@@ -59,14 +59,9 @@ I believe in lifelong learning, collaboration, and sharing knowledge to grow as 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/b3JnLzIwMDAvc3ZnIj48/cGF0aCBkPSJNMTYuMTUy/IDRMMzAgMjRIMTIuM2wt/LjEzNS4xOTQtLjEwNy4x/NTZBLjUuNSAwIDAgMCAx/MiAxNkg0TDExLjgyNiA0/aDIuNjg2bC4wMzQuMDUx/TDE2LjE1MiA0Wk0xNS45/IDcuODU2IDcuNzc4IDIx/aDQuMDAzbC44MjItMS4z/MTRBLjUuNSAwIDAgMCAx/MiAxOWg4LjcyM2wuMTQ3/LS4yMTUuMTA3LS4xNTZh/LjUuNSAwIDAgMCAwLS41/NjdsLTQuODI0LTcuNTZh/LjUwNS41MDUgMCAwIDAt/LjQyNS0uMjI4aC0uMDA4/LmEyNS41MTMgMjUuNTEz/IDAgMCAwLS40NDYuMzA0/Wk0xNiAyMi4wMDhsMi4w/MDctMy4xNzYgMi4wMDgg/My4xNzZIMTZabS4z/LTQuODczIDMuODc2IDYu/MDg4aC03Ljc1M0wxNi4z/IDExLjEzN3oiLz48L3N2/Zz4=&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=for-the-badge&logo=freecodecamp)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)
 
 <!-- Add more platforms like Codeforces, Coursera, etc. -->
