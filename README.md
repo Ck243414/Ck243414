@@ -17,8 +17,9 @@ Currently, I'm working on **neural network models** and extracting data from ima
 I believe in **lifelong learning**, **collaboration**, and **sharing knowledge** to grow — both as a developer and as a person. I'm always excited to connect, contribute, and create something meaningful. 🚀
 
 💬 Let's connect and create something amazing together!  
-📧 *Reach me at:* chaitanya.kannan@gmail.com 
-🔗 *LinkedIn:* www.linkedin.com/in/chaitanya-kannan-06a3a6248
+📧 **Reach me at:** [chaitanya.kannan@gmail.com](mailto:chaitanya.kannan@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/chaitanya-kannan-06a3a6248](https://www.linkedin.com/in/chaitanya-kannan-06a3a6248)
+
 
 ---
 ## 💻 Skills and Experience
