@@ -1,12 +1,20 @@
 # Hey there, I'm Chaitanya Kannan 👋
 
-🎓 I'm a final year B.Tech Computer and Communication student at *Manipal Institute of Technology*.  
-🤖 I’m deeply passionate about *Artificial Intelligence* and *Machine Learning*, and I love exploring the latest in AI research, building ML models, and solving real-world problems using data.  
+🎓 I'm a final-year B.Tech student in **Computer and Communication Engineering** at *Manipal Institute of Technology*.
+
+🤖 I'm deeply passionate about **Artificial Intelligence** and **Machine Learning**. I love exploring the latest advancements in AI research, building ML models, and solving real-world problems using data.  
+Currently, I'm working on **neural network models** and extracting data from images using **OpenCV**. I'm also learning how to build and deploy robust ML models from scratch.
+
+🏋️‍♂️ Outside the world of tech, I’m committed to maintaining a healthy lifestyle — I **go to the gym regularly**, track my **personal records (PRs)**, and focus on eating clean and staying fit.
+
+📚 In my free time, I enjoy **reading**, participating in **debates**, and staying up-to-date with global events and emerging technologies.  
+⚽ I'm also a huge football enthusiast — I love playing the game and supporting my favorite team, **Real Madrid**.
+
+🎧 When it’s time to unwind, you’ll find me listening to **rap, lofi**, and **Punjabi music** — my favorite genres for both motivation and relaxation.
 
 ---
 
-Beyond code, I love dabbling with creative projects — whether it’s music, photography, or writing.  
-I believe in lifelong learning, collaboration, and sharing knowledge to grow as a developer and human.  
+I believe in **lifelong learning**, **collaboration**, and **sharing knowledge** to grow — both as a developer and as a person. I'm always excited to connect, contribute, and create something meaningful. 🚀
 
 💬 Let's connect and create something amazing together!  
 📧 *Reach me at:* chaitanya.kannan@gmail.com 
