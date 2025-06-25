@@ -11,6 +11,7 @@ Currently, I'm working on **neural network models** and extracting data from ima
 ⚽ I'm also a huge football enthusiast — I love playing the game and supporting my favorite team, **Real Madrid**.
 
 🎧 When it’s time to unwind, you’ll find me listening to **rap, lofi**, and **Punjabi music** — my favorite genres for both motivation and relaxation.
+
 ---
 I believe in **lifelong learning**, **collaboration**, and **sharing knowledge** to grow — both as a developer and as a person. I'm always excited to connect, contribute, and create something meaningful. 🚀
 
