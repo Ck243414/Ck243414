@@ -18,7 +18,6 @@ I believe in **lifelong learning**, **collaboration**, and **sharing knowledge**
 💬 Let's connect and create something amazing together!  
 📧 **Reach me at:** [chaitanya.kannan@gmail.com](mailto:chaitanya.kannan@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/chaitanya-kannan-06a3a6248](https://www.linkedin.com/in/chaitanya-kannan-06a3a6248)
-
 ---
 ## 💻 Skills and Experience
 
