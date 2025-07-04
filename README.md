@@ -15,7 +15,6 @@ Currently, I'm working on **neural network models** and extracting data from ima
 🎧 When it’s time to unwind, you’ll find me listening to **rap, lofi**, and **Punjabi music** — my favorite genres for both motivation and relaxation.
 
 ---
-
 I believe in **lifelong learning**, **collaboration**, and **sharing knowledge** to grow — both as a developer and as a person. I'm always excited to connect, contribute, and create something meaningful. 🚀
 
 💬 Let's connect and create something amazing together!
