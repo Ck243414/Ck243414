@@ -12,6 +12,7 @@ Currently, I'm working on **neural network models** and extracting data from ima
 
 ⚽ I'm also a huge football enthusiast — I love playing the game and supporting my favorite team, **Real Madrid**.
 
+
 ---
 I believe in **lifelong learning**, **collaboration**, and **sharing knowledge** to grow — both as a developer and as a person. I'm always excited to connect, contribute, and create something meaningful. 🚀
 
